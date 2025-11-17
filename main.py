@@ -2,7 +2,7 @@
 Full Name: Faith Obot
 Class-Section: IS 250-01
 Assignment Title: Calculate Average of Three Scores
-Submission Date: 11/06/2025
+Submission Date: November /06/2025
 """
 """
 Ask the user to enter the first exam score.
